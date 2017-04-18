@@ -1,0 +1,55 @@
+
+fatzom-texture-die.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+001
+  rotate: false
+  xy: 2, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 78, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 154, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 230, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 306, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 382, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 458, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
